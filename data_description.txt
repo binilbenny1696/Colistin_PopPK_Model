@@ -1,0 +1,31 @@
+
+---
+
+## 🔍 Key Results
+
+- **Significant covariates**: CrCL, RRT, weight, age
+- **High shrinkage** observed for some transfer parameters (to be refined)
+- **Simulation outcome**: Standard fixed dosing underexposed patients with augmented renal clearance
+- **Clinical relevance**: Supports **individualized dosing tables** for ICU settings
+
+---
+
+## 📚 References
+
+- Garonzik SM et al., *Clin Infect Dis.* (2011)  
+- Nation RL et al., *Pharmacotherapy* (2015)  
+- FDA PopPK Guidance for Industry
+
+---
+
+## 👩‍🔬 Author
+
+**Binil Benny**  
+Pharmacometrician | PopPK & QSP Modeling | MIDD Advocate  
+📫 GitHub: [@binilbenny1696](https://github.com/binilbenny1696)
+
+---
+
+## 🪪 License
+
+This project is licensed under the [Creative Commons Zero (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license. You are free to use, share, and adapt with attribution.
